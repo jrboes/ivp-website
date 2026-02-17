@@ -6,7 +6,7 @@ enableRobotsTXT = "true"
 summaryLength = 30
 copyright = "Béa Beaudry"
 [params]
-  description = "Placeholder tagline: 'Come for the coaching, stay for the inner voices!'"
+  description = "Where you power resides"
   donation_url = ""
   contact = "bkbeaudry@gmail.com"
   copyrighturl = "https://www.innervoicepower.com"
