@@ -1,0 +1,199 @@
+:root {
+  --page: #754ab6;
+  --link: #c36;
+  --title: #754ab6;
+  --subtitle: #7A7A7A;
+}
+
+.pagination {
+  --bs-pagination-color: var(--page);
+  --bs-pagination-hover-color: var(--page);
+  --bs-pagination-focus-color: var(--page);
+  --bs-pagination-active-border-color: var(--page);
+  --bs-pagination-active-bg: var(--page);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+body {
+  font-family: "Georgia", serif;
+  font-size: 16px;
+}
+
+.page {
+  img {
+    max-width: 100%;
+  }
+}
+
+.section {
+  img {
+    display: flex;
+    height: 263px;
+    object-fit: cover;
+  }
+}
+
+.section-calender {
+  img {
+    display: flex;
+    height: 394.5px;
+    object-fit: cover;
+  }
+}
+
+.footer {
+  font-size: 12px;
+}
+
+button {
+  &:hover,
+  &:focus {
+    background: var(--page);
+  }
+}
+
+.dropdown-item {
+  &.active,
+  &:focus {
+    background: var(--page);
+  }
+}
+
+.navbar-nav {
+  .nav-link.active {
+    color: var(--page);
+  }
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  list-style-position: outside;
+  margin-left: 0;
+}
+
+.banner {
+  position: relative;
+
+  img {
+    display: flex;
+    max-height: 528px;
+    object-fit: cover;
+  }
+
+  div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    h1 {
+      font-weight: bold;
+      color: white;
+      font-size: 48px;
+      text-shadow: 3pt 3pt 3pt black;
+    }
+  }
+}
+
+.navbar-brand {
+  text-align: justify;
+  text-align-last: left;
+
+  h1 {
+    color: var(--title);
+  }
+
+  h4 {
+    color: var(--subtitle);
+    font-size: 16px;
+  }
+}
+
+.image-gallery {
+  overflow: auto;
+  margin-left: -1% !important;
+
+  li {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 32%;
+
+    a {
+      img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+    }
+  }
+}
+
+.page-logo {
+  img {
+    position: relative;
+    float: right;
+    max-width: 200px
+  }
+}
+
+.alt-image {
+  overflow: auto;
+  margin-bottom: 1.0rem;
+
+  img {
+    max-width: 60%;
+    height: auto;
+  }
+}
+
+/* Odd blocks: image on the left, text wraps on the right */
+.alt-image:nth-child(2n+1) img {
+  float: left;
+  margin: 0 1rem 1rem 0;
+}
+
+/* Even blocks: image on the right, text wraps on the left */
+.alt-image:nth-child(2n) img {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .alt-image img {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 0 0 1rem 0;
+  }
+}
+
+@media only screen and (max-width: 432px) {
+  .navbar-brand {
+    h4 {
+      font-size: 12px;
+    }
+  }
+}

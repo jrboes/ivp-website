@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en-US">
+
+{{ block "head" . }}
+<meta content="text/html;charset=UTF-8" http-equiv="content-type"/>
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width" name="viewport">
+  <meta content="index, follow" name="robots">
+
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+
+  {{ if isset .Params "title" }}
+  <title>{{ .Params.title }} | {{ .Site.Title }}</title>
+  {{ else }}
+  <title>{{ .Site.Title }}</title>
+  {{ end }}
+  <link rel="icon" type="image/x-icon" href='{{ "img/favicon.ico" | relURL }}'>
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet"/>
+  {{ $sassTemplate := resources.Get "scss/main.scss" }}
+  {{ $style := $sassTemplate | resources.ExecuteAsTemplate "main.scss" . | css.Sass | resources.Minify }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+{{ end }}
+
+{{ block "body" . }}
+<body>
+{{ block "navbar" . }}
+{{ partial "nav.html" }}
+{{ end }}
+<main>
+  <div class="container">
+    {{ block "main" . }}
+    {{ end }}
+  </div>
+</main>
+{{ block "footer" . }}
+{{ partial "footer.html" . }}
+{{ end }}
+{{ block "javascript" . }}
+{{ partial "javascript.html" . }}
+{{ end }}
+</body>
+{{ end }}
+
+</html>

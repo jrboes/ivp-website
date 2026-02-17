@@ -1,0 +1,7 @@
+<div class="alt-image">
+  {{ $src := .Get "src" }}
+  {{ $image := .Page.Resources.GetMatch $src }}
+
+  <img src="{{ $image.Permalink }}"/>
+  {{ .Inner | .Page.RenderString (dict "display" "block") -}}
+</div>

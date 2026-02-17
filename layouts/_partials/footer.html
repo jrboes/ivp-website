@@ -1,0 +1,20 @@
+<div class="container footer">
+  <hr>
+  <div class="container">
+    <div class="d-md-flex justify-content-between">
+      <div>
+        <p>{{ site.Title }}<br>{{ site.Params.description }}</p>
+        {{ if site.Params.address1 }}
+        <p>{{ site.Params.address1 }}<br>{{ site.Params.address2 }}</p>
+        {{ end }}
+      </div>
+      <div>
+        <p>
+          Copyright @ {{ now.Year }}
+          <br>
+          <a href="{{ site.Params.copyrighturl }}">{{ .Site.Copyright }}</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

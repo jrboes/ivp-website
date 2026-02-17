@@ -1,0 +1,14 @@
+baseURL = "https://www.innervoicepower.com"
+languageCode = "en-us"
+title = "Inner Voice Coaching"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = "true"
+summaryLength = 30
+copyright = "Béa Beaudry"
+[params]
+  description = "Placeholder tagline: 'Come for the coaching, stay for the inner voices!'"
+  donation_url = ""
+  contact = "bkbeaudry@gmail.com"
+  copyrighturl = "https://www.innervoicepower.com"
+  address1 = ""
+  address2 = ""
