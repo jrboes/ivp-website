@@ -3,7 +3,7 @@
 +++
 
 {{< alt-image src="img/img1.jpg" >}}
-## Where your Power resides
+## Where Your Power Resides
 Coaching is about assisting an individual in uncovering their truth. All the answers reside within us but it is difficult to see ourselves objectively. I am about assisting you in discovering your authentic self and uncovering your inner power. With your power that is felt in your self-esteem, self-respect and love, you can have an amazing life that matches who you are. That feels right. A life where you do not lose yourself when the world throws you a curve.
 
 I love coaching people who are willing to sit and look introspectively at what is going on in their subconscious and also to examine conscious thoughts that are taken for granted. I love looking at our differences and our similarities. Seeing how our similarities can help each other and how our differences demonstrate where we have our power.
@@ -21,7 +21,7 @@ I love coaching people who are willing to sit and look introspectively at what i
 {{< /alt-image >}}
 
 {{< alt-image src="img/img3.jpg" >}}
-## Techniques I use
+## Techniques I Use
 
 **Psychosynthesis**  
 Working with our sub-Personalities to see and understand our beliefs through emotions. The sub-personalities reside in the sub-conscious and in a sense, acting out our beliefs. By examining them, we bring our beliefs into the light for examination. From there, we choose if we want to keep the belief or release it.

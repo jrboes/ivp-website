@@ -6,9 +6,9 @@ enableRobotsTXT = "true"
 summaryLength = 30
 copyright = "Béa Beaudry"
 [params]
-  description = "Where you power resides"
+  description = "Where Your Power Resides"
   donation_url = ""
-  contact = "bkbeaudry@gmail.com"
+  contact = ""
   copyrighturl = "https://www.innervoicepower.com"
   address1 = ""
   address2 = ""
