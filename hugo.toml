@@ -7,6 +7,7 @@ summaryLength = 30
 copyright = "Béa Beaudry"
 [params]
   description = "Where Your Power Resides"
+  logo = "android-chrome-192x192.png"
   donation_url = ""
   contact = ""
   copyrighturl = "https://www.innervoicepower.com"
