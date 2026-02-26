@@ -3,7 +3,7 @@
 +++
 
 {{< alt-image src="img/img1.jpg" >}}
-## Where Your Power Resides
+## What is coaching
 Coaching is about assisting an individual in uncovering their truth. All the answers reside within us but it is difficult to see ourselves objectively. I am about assisting you in discovering your authentic self and uncovering your inner power. With your power that is felt in your self-esteem, self-respect and love, you can have an amazing life that matches who you are. That feels right. A life where you do not lose yourself when the world throws you a curve.
 
 I love coaching people who are willing to sit and look introspectively at what is going on in their subconscious and also to examine conscious thoughts that are taken for granted. I love looking at our differences and our similarities. Seeing how our similarities can help each other and how our differences demonstrate where we have our power.
