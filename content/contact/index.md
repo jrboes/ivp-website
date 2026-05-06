@@ -1,9 +1,5 @@
 ---
 title: "Contact"
-menu:
-  main:
-    name: 'Contact'
-    weight: 10
 ---
 
 You can reach me by filling out the form below, or email me directly at baya@innervoicepower.com.

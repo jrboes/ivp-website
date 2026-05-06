@@ -20,10 +20,24 @@ copyright = "Béa Beaudry"
 [menus]
 
   [[menus.main]]
-    name = "Booking"
-    identifier = "Booking"
-    url = "#"
+    name = "About Me"
+    url = "/about/"
     weight = 20
+
+  [[menus.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Fee Schedule"
+    url = "/fees/"
+    weight = 11
+
+  [[menus.main]]
+    name = "Booking"
+    url = "#"
+    weight = 12
 
   [[menus.main]]
     name = "Coaching Session"

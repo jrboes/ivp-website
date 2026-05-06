@@ -1,9 +1,5 @@
 ---
 title: "About Me"
-menu:
-  main:
-    name: 'About Me'
-    weight: 100
 ---
 
 {{< alt-image src="img/portrait.jpg" >}}

@@ -1,6 +1,6 @@
-+++
+---
 
-+++
+---
 
 {{< alt-image src="img/img1.jpg" >}}
 ## My Practice

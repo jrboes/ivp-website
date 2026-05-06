@@ -1,9 +1,5 @@
 ---
 title: "Fee Schedule"
-menu:
-  main:
-    name: 'Fee Schedule'
-    weight: 11
 ---
 
 ## \$110 for one hour coaching  
