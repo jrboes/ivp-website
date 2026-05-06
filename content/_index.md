@@ -6,7 +6,7 @@
 ## My Practice
 I help people move from being controlled by old patterns and reactions to living from their wisest, most authentic self. We work with the different parts of your personality—especially those shaped by past experiences—so you can feel more confident, compassionate, and in control of your life. Beyond this, I offer spiritual guidance that helps you discover the deeper strengths and traits you were born with but may be hidden. Through exploring archetypes and dreams, we uncover your unique gifts and how to use them. This deeper work leads to a truly authentic life where you experience greater freedom and joy, recognize your connection with others and the world around you, and naturally want to contribute your gifts in meaningful ways.
 
-##### **Contact me at baya@innervoicepower.com for a free consultation.**
+##### **[Contact me](./contact) for a free consultation.**
 {{< /alt-image >}}
 
 {{< alt-image src="img/img2.jpg" >}}
@@ -41,20 +41,4 @@ Dream analysis brings out repressed aspects of our unconscious personality. We c
 Spiritual awareness is recognizing our connection to the Divine, eternal Self or the interconnected nature of all things. It involves a deeper awareness of our true nature, purpose and relationship within the universe.
 
 Mindfulness helps us become more aware of this interconnectedness. It makes us aware of how we perceive ourselves, others and the world. As we examine, we come to honor our worthiness,  love, our specialness and how we fit into the all.
-{{< /alt-image >}}
-
----
-
-## About Me:
-{{< alt-image src="img/portrait.jpg" >}}
-I have a Master’s Degree in Transpersonal Psychology from the Institute of Transpersonal Psychology with a certificate in Transpersonal Coaching. From there I learned Jungian psychology and the practice of identifying sub-personalities and Archetypes.
- 
-I am a Minister with the Center for Sacred Studies -Minister of Walking Prayer. The philosophy of the ministry is that everything is considered an expression of Spirit. I walk my prayer in gratitude and ‘in dialogue with Creation based on the teachings of the ‘Original Peoples’.”
- 
-Accounting – I have been an accountant most of my life and continue with small jobs to support myself and my projects.
-Gardening – Love to garden. Getting my hands in the soil throughout the spring, summer and fall is very healing. I have both a large vegetable garden and various perennial gardens.
- 
-Writing- I am becoming a writer of fantasy stories inspired from my dreams. From dream analysis, I weave into the story what I have garnered from my dreamworld. This brings alive the dreams and increases my awareness of myself and where I can grow.
- 
-Crochet, Knitting, Quilting – I love to relax with a crochet project. These crafts are where I have the opportunities to combine color and weave or sew them into something useful.
 {{< /alt-image >}}

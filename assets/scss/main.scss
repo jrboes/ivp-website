@@ -63,23 +63,40 @@ body {
   font-size: 12px;
 }
 
-button {
-  &:hover,
-  &:focus {
-    background: var(--page);
+.navbar-nav {
+  gap: 0.25rem;
+
+  .nav-link {
+    padding: 0.5rem 0.9rem;
+    border-radius: 0.5rem;
+    transition: background-color 0.2s ease, color 0.2s ease;
   }
+
+  .nav-link:hover,
+  .nav-link:focus,
+  .nav-link.active,
+  .nav-link.show,
+  .show > .nav-link {
+    background: var(--page);
+    color: white;
+  }
+}
+
+.dropdown-menu {
+  border-radius: 0.5rem;
+  overflow: hidden;
 }
 
 .dropdown-item {
-  &.active,
-  &:focus {
-    background: var(--page);
-  }
-}
+  padding: 0.5rem 0.9rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.2s ease, color 0.2s ease;
 
-.navbar-nav {
-  .nav-link.active {
-    color: var(--page);
+  &:hover,
+  &:focus,
+  &.active {
+    background: var(--page);
+    color: white;
   }
 }
 

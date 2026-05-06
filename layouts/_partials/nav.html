@@ -31,36 +31,42 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
-          {{- $page := site.GetPage page.Section }}
-          {{- range site.Menus.main }}
+        {{- $page := . }}
+        {{- range site.Menus.main }}
           {{- $active := $page.IsMenuCurrent .Menu . }}
           {{- $activeSub := $page.HasMenuCurrent .Menu . }}
+
           {{- if .HasChildren }}
           <li class="nav-item dropdown">
-            <div class="btn-group">
-              <a href='{{ .URL | relURL }}'>
-                <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
-              </a>
-              <button aria-expanded="false"
-                      class="nav-link dropdown-toggle dropdown-toggle-split{{ if $activeSub }} active{{ end }}"
-                      data-bs-toggle="dropdown">
-              </button>
-
-              <ul class="dropdown-menu">
-                {{- range .Children }}
-                {{- $active := $page.IsMenuCurrent .Menu . }}
-                <li><a class="dropdown-item {{ if $active }}active{{ end }}"
-                       href='{{ .URL | relURL }}'>{{- .Name }}</a></li>
-                {{- end }}
-              </ul>
-            </div>
+            <a class="nav-link dropdown-toggle{{ if $activeSub }} active{{ end }}"
+               href="#"
+               role="button"
+               data-bs-toggle="dropdown"
+               aria-expanded="false">
+              {{- .Name }}
+            </a>
+            <ul class="dropdown-menu">
+              {{- range .Children }}
+                {{- $childActive := $page.IsMenuCurrent .Menu . }}
+                <li>
+                  <a class="dropdown-item{{ if $childActive }} active{{ end }}"
+                     href='{{ .URL | relURL }}'>
+                    {{- .Name }}
+                  </a>
+                </li>
+              {{- end }}
+            </ul>
           </li>
           {{- else }}
-          <a href='{{ .URL | relURL }}'>
-            <button class="nav-link{{ if $active }} active{{ end }}">{{- .Name }}</button>
-          </a>
+          <li class="nav-item">
+            <a class="nav-link{{ if $active }} active{{ end }}"
+               href='{{ .URL | relURL }}'>
+              {{- .Name }}
+            </a>
+          </li>
           {{- end }}
-          {{- end }}
+        {{- end }}
+
         </ul>
 
         {{ if site.Params.donation_url }}

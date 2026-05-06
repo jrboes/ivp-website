@@ -17,3 +17,22 @@ copyright = "Béa Beaudry"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[menus]
+
+  [[menus.main]]
+    name = "Booking"
+    identifier = "Booking"
+    url = "#"
+    weight = 20
+
+  [[menus.main]]
+    name = "Coaching Session"
+    pageRef = "/book/coaching/"
+    parent = "Booking"
+    weight = 1
+
+  [[menus.main]]
+    name = "Dream Analysis"
+    pageRef = "/book/dream-analysis/"
+    parent = "Booking"
+    weight = 2
