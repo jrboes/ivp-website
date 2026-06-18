@@ -1,12 +1,12 @@
 baseURL = "https://www.innervoicepower.com"
 languageCode = "en-us"
-title = "Inner Voice Coaching"
+title = "Inner Voice Coaching - Where the Power Resides"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = "true"
 summaryLength = 30
 copyright = "Béa Beaudry"
 [params]
-  description = "Where Your Power Resides"
+  description = "Trauma Recovery Coaching"
   logo = "android-chrome-192x192.png"
   donation_url = ""
   contact = ""
