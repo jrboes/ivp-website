@@ -1,6 +1,6 @@
 baseURL = "https://www.innervoicepower.com"
 languageCode = "en-us"
-title = "Inner Voice Coaching - Where the Power Resides"
+title = "Inner Voice Coaching - Where Your Power Resides"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = "true"
 summaryLength = 30
