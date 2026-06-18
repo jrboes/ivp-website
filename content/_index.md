@@ -2,7 +2,7 @@
 
 ---
 
-{{< alt-image src="img/img1.jpg" >}}
+{{< alt-image src="img/First image on site - new.jpg" >}}
 ## My Practice
 I help people move from being controlled by old patterns and reactions to living from their wisest, most authentic self. We work with the different parts of your personality—especially those shaped by past experiences—so you can feel more confident, compassionate, and in control of your life. Beyond this, I offer spiritual guidance that helps you discover the deeper strengths and traits you were born with but may be hidden. Through exploring archetypes and dreams, we uncover your unique gifts and how to use them. This deeper work leads to a truly authentic life where you experience greater freedom and joy, recognize your connection with others and the world around you, and naturally want to contribute your gifts in meaningful ways.
 
