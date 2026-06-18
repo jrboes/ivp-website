@@ -3,14 +3,14 @@
 ---
 
 {{< alt-image src="img/img1new.jpg" >}}
-## My Practice
+## Trauma Recovery Coaching
 I help people move from being controlled by old patterns and reactions to living from their wisest, most authentic self. We work with the different parts of your personality—especially those shaped by past experiences—so you can feel more confident, compassionate, and in control of your life. Beyond this, I offer spiritual guidance that helps you discover the deeper strengths and traits you were born with but may be hidden. Through exploring archetypes and dreams, we uncover your unique gifts and how to use them. This deeper work leads to a truly authentic life where you experience greater freedom and joy, recognize your connection with others and the world around you, and naturally want to contribute your gifts in meaningful ways.
 
 ##### **[Contact me](./contact) for a free Discovery Call.**
 {{< /alt-image >}}
 
 {{< alt-image src="img/img2new.jpg" >}}
-## Trauma Recovery Coaching:
+## Trauma Recovery:
 My Trauma Recovery Coaching focuses on working with childhood trauma that created a strong inner critic and a shameful sense of self. This type of trauma can result in disconnection in relationships; relationships we have with ourselves and with others. It may be we either we lash out at others or turn within and punish ourselves when we feel threatened which can result in damaged relationships and sometimes depression. 
 
 My objective is to help my clients open up to a more authentic and fulfilling life through awareness and self-compassion. 
