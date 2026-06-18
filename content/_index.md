@@ -9,7 +9,7 @@ I help people move from being controlled by old patterns and reactions to living
 ##### **[Contact me](./contact) for a free Discovery Call.**
 {{< /alt-image >}}
 
-{{< alt-image src="img/img2.jpg" >}}
+{{< alt-image src="img/img2new.jpg" >}}
 ## Trauma Recovery Coaching:
 My Trauma Recovery Coaching focuses on working with childhood trauma that created a strong inner critic and a shameful sense of self. This type of trauma can result in disconnection in relationships; relationships we have with ourselves and with others. It may be we either we lash out at others or turn within and punish ourselves when we feel threatened which can result in damaged relationships and sometimes depression. 
 
