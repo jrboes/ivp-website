@@ -4,7 +4,14 @@
 
 {{< alt-image src="img/img1new.jpg" >}}
 ## Trauma Recovery Coaching
-I help people move from being controlled by old patterns and reactions to living from their wisest, most authentic self. We work with the different parts of your personality—especially those shaped by past experiences—so you can feel more confident, compassionate, and in control of your life. Beyond this, I offer spiritual guidance that helps you discover the deeper strengths and traits you were born with but may be hidden. Through exploring archetypes and dreams, we uncover your unique gifts and how to use them. This deeper work leads to a truly authentic life where you experience greater freedom and joy, recognize your connection with others and the world around you, and naturally want to contribute your gifts in meaningful ways.
+Do you ask yourself, “If people really knew me, they wouldn’t like me”
+Do you then ask yourself, ‘What’s wrong with me? Why can’t I get things right?”
+
+ Well, nothing is wrong with you. The patterns you have that once protected you may simply no longer serve you. Together, we can become curious about those patterns, understand them, and create the freedom to choose something different.
+My goal for you is for you to believe: I am worthy. I am lovable. I can trust myself. I can be myself, connect deeply with others, and experience joy.”
+
+I help people move from being controlled by old patterns formed in childhood to living from their wisest, most authentic self. We work with the different parts of your personality—especially those shaped by childhood experiences. We do not rehash the past to figure out a problem.  We observe what we are telling ourselves now. By observing parts of ourselves we do not like and recognizing they were shaped to protect us a child, we learn they exist to protect us. But since we are now adults, we can learn how to work with them so they are not in charge of how we react. We can learn to control emotional responses so you can feel more confident, compassionate, and in control of the choices we make. Beyond this, I offer spiritual guidance that could help you discover the deeper strengths and traits you were born with but may have hidden. This deeper work leads to a truly authentic life where you experience greater freedom and joy and recognize your connection with others and the world around you, this may naturally lead you to want to contribute your gifts in meaningful ways.
+
 
 ##### **[Contact me](./contact) for a free Discovery Call.**
 {{< /alt-image >}}
