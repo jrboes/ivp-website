@@ -7,6 +7,7 @@
 Do you ask yourself, “If people really knew me, they wouldn’t like me”
 Do you then ask yourself, ‘What’s wrong with me? Why can’t I get things right?”
 
+
  Well, nothing is wrong with you. The patterns you have that once protected you may simply no longer serve you. Together, we can become curious about those patterns, understand them, and create the freedom to choose something different.
 My goal for you is for you to believe: I am worthy. I am lovable. I can trust myself. I can be myself, connect deeply with others, and experience joy.”
 
