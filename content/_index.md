@@ -50,11 +50,11 @@ It bring our parts into a sharper focus letting us know where we might pay more 
 and increase awareness.
 
 Spiritual Awareness
-Spiritual awareness is recognizing our connection to the Divine, eternal Self or the interconnected nature
- of all things. It involves a deeper awareness of our true nature, purpose and relationship within the 
+Spiritual awareness is recognizing our connection to the Divine, eternal Self and/or the interconnected nature
+of all things. It involves a deeper awareness of our true nature, purpose and relationship within the 
 universe.
-Mindfulness helps us become more aware of this interconnectedness. It makes us aware of how we 
-perceive ourselves, others and the world. As we examine, we come to honor our worthiness, love,
- our specialness and how we fit into the all.
+Mindfulness and awareness helps us become more aware of this interconnectedness. It makes us aware of how we 
+perceive ourselves, others and the world. As we examine and sooth our inner voices, we come to honor our worthiness, love,
+our specialness and how we fit into the all.
 
 {{< /alt-image >}}
