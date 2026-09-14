@@ -3,15 +3,10 @@ title: "About Me"
 ---
 
 {{< alt-image src="img/portrait.jpg" >}}
-I am currently in the Trauma Recovery Coaching Certification Program with IAOTRC (International Association of Trauma Recovery Coaching). I will obtain my certification in September of 2026. For more information, visit https://certifiedtraumarecoverycoaching.com/
+I have a Masters in Transpersonal Psychology and was trained as a transpersonal coach. I am also a Trauma Recovery Coach certified through the International Association of Trauma Recovery Coaches (IAOTRC). 
+Trauma Recovery Coaching is a specialized coaching which includes educational aspects on our nervous system development, how it affects our emotion base, our attachment and inter-generational profiles, body emotional responses versus our stories, and aftereffects of trauma especially in relationship to others and ourselves.  
+With a Master’s Degree in Transpersonal Psychology from the Institute of Transpersonal Psychology (Currently Sophia University in Palo Alto CA) and a certificate in Transpersonal Coaching, I studied Jungian psychology with the practice of identifying sub-personalities (currently most people know as ISF- Internal Family Systems), and Dream Analysis.
+I am also a Minister of Walking Prayer through the Center for Sacred Studies. The philosophy is, everything is considered an expression of Spirit. My walking prayer is a mindfulness of gratitude and awareness.
 
-I have a Master’s Degree in Transpersonal Psychology from the Institute of Transpersonal Psychology with a certificate in Transpersonal Coaching. From there I learned Jungian psychology and the practice of identifying sub-personalities and Archetypes.
- 
-I am a Minister with the Center for Sacred Studies -Minister of Walking Prayer. The philosophy of the ministry is that everything is considered an expression of Spirit. I walk my prayer in gratitude and awareness.
- 
-Accounting/MBA – I have been an accountant most of my life and continue with small jobs to support myself and my projects.
 
-Gardening – Love to garden. Getting my hands in the soil throughout the spring, summer and fall is very healing and spiritually connects me to nature. I have both a large vegetable garden and various perennial gardens.
- 
-Crochet, Knitting, Quilting – I love to relax with a crochet project. These crafts are where I have the opportunities to combine color and weave or sew them into something useful.
 {{< /alt-image >}}
