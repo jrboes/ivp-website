@@ -25,6 +25,11 @@ copyright = "Béa Beaudry"
     weight = 20
 
   [[menus.main]]
+    name = "Policies"
+    url = "/policy/"
+    weight = 21
+
+  [[menus.main]]
     name = "Contact"
     url = "/contact/"
     weight = 10
