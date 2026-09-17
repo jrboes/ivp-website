@@ -2,6 +2,7 @@
 title: "Fee Schedule"
 ---
 
+## \$15 for a discovery call
 ## \$110 for one hour coaching  
 ## \$720 for a bundle of 8 sessions (available after the first 4 sessions)
 ## \$45 for 45 minute dream analysis
