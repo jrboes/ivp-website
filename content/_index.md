@@ -17,7 +17,7 @@ My goal for you is for you to believe: I am worthy. I am lovable. I can trust my
 
 I help people move from being controlled by old patterns formed in childhood to living from their wisest, most authentic self. We work with the different parts of your personality—especially those shaped by childhood experiences. We do not rehash the past to figure out a problem.  We observe what we are telling ourselves now. By observing parts of ourselves we do not like and recognizing they were shaped to protect us a child, we learn they exist to protect us. But since we are now adults, we can learn how to work with them so they are not in charge of how we react. We can learn to control emotional responses so you can feel more confident, compassionate, and in control of the choices we make. Beyond this, I offer spiritual guidance that could help you discover the deeper strengths and traits you were born with but may have hidden. This deeper work leads to a truly authentic life where you experience greater freedom and joy and recognize your connection with others and the world around you, this may naturally lead you to want to contribute your gifts in meaningful ways.
 
-##### **[Contact me](./contact) for a free Discovery Call.**
+##### **[Contact me](./contact) for a 15 minute Discovery Call.**
 
 {{< /alt-image >}}
 
@@ -25,7 +25,7 @@ I help people move from being controlled by old patterns formed in childhood to 
 
 ## Trauma Recovery:
 
-My Trauma Recovery Coaching focuses on working with childhood trauma that created a strong inner critic and a shameful sense of self. This type of trauma can result in disconnection in relationships; relationships we have with ourselves and with others. It may be we either we lash out at others or turn within and punish ourselves when we feel threatened which can result in damaged relationships and sometimes depression.
+My Trauma Recovery Coaching focuses on working with childhood trauma that created a strong inner critic and a shameful sense of self. This type of trauma can result in disconnection in relationships; relationships we have with ourselves and with others. It may be we either lash out at others or turn within and punish ourselves when we feel threatened which can result in damaged relationships and sometimes depression.
 
 My objective is to help my clients open up to a more authentic and fulfilling life through awareness and self-compassion.
 
@@ -41,8 +41,8 @@ We do not need to be fixed. We need to embrace the different parts of ourselves 
 ## Techniques I Use
 
 **Psychosynthesis**
-Working with our sub-Personalities (our Parts) to see and understand our beliefs created through emotions.
-The sub-personalities reside in the sub-conscious and in a sense, acting out our beliefs.
+Working with our sub-Personalities (our Parts), we can see and understand our beliefs created through emotions.
+The sub-personalities reside in the sub-conscious and in a sense, they act out our beliefs.
 By examining them, we bring our beliefs into the light for examination and look at the conflicting beliefs
 held by different parts. Some of these beliefs are created in childhood and no longer serve who we are
  today. In becoming aware of these thoughts we hold, we give ourselves the space to choose what
