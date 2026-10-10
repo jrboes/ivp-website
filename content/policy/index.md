@@ -9,8 +9,8 @@ I also believe that you have within you the knowledge you need about how to move
 My role in your journey is to be a source of knowledge, encouragement, validation, and, especially support when you feel overwhelmed and/or lost. Our relationship is one of peers. I’m not an authority figure and will not treat you as someone who has less power than I do.
  
 My Fees
-I charge $110 per hour long session for individuals.
-I charge $ 720 for a bundle of 8 sessions. Bundles are available after our first 4 coaching sessions.
+I charge $85 per hour long session for individuals.
+I charge $ 560 for a bundle of 8 sessions. Bundles are available after our first 4 coaching sessions.
 Disclosures:
 Coaching may result in changes in your relationships as well as healthy changes in the types of relationships you form.
 Zoom is not HIPPA compliant and, therefore I cannot guarantee, with 100% certainty, that information shared through Zoom will be safe from a data breach. However, I do keep all client records secured in ways that anyone other than myself does not have access to them.
